@@ -22,7 +22,6 @@ import java.util.Map;
 //	...and amends the appropriate data structures to contain the new object (the student will still retain their student ID (i.e. why change it due to small change)
 
 //	Author: Mehdi Naderi Varandi
-//	Student ID: 170725695
 
 
 public final class SystemManager {
