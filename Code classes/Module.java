@@ -13,7 +13,7 @@ package main;
 //...named CSC1021) as the university already has unique modules
 
 //Author: Mehdi Naderi Varandi
-//Student ID: 170725695
+
 
 public final class Module {
 	//FIELDS--------------------------------------------------------
@@ -54,7 +54,7 @@ public final class Module {
 		//It then creates a new Module object from each line - the method is then called repeatedly until the SystemManager class reads all lines
 		
 		//My assumptions for this method are:
-		//	The file is in the format described in the specification, as in...
+		//	The file is in the format described in the examples, as in...
 		//	(Module Code), (Module Name), (Module Credits)
 		
 		String[] fileParts=fileLine.split(FILE_DELIMITER);
