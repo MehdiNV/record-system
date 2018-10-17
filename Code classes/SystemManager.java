@@ -53,7 +53,7 @@ public final class SystemManager {
 	final static String SUPERVISOR_FILE_LOCATION="src/SupervisorInformation.txt";
 	//Holds file location of all supervisors that are available
 	
-	//Note for markers: Please note that file locations are hard coded in, hence it may be necessary to change the file locations for text files such as Module Information or...
+	//Note for anyone reading: Please note that file locations are hard coded in, hence it may be necessary to change the file locations for text files such as Module Information or...
 	//...supervisor information files - the hard coded values may need to be changed
 	
 	//-------------------------------------------------------------------------------------------------------------------------
