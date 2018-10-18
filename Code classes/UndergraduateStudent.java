@@ -3,7 +3,6 @@ package main;
 //Implementation of the TaughtStudent abstract class- stores the constructor (which calls the super constructor)...
 //...and a method that returns the type of student
 
-//Author: Mehdi Naderi Varandi
 
 
 public final class UndergraduateStudent extends TaughtStudent{
