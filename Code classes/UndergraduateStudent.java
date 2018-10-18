@@ -4,7 +4,7 @@ package main;
 //...and a method that returns the type of student
 
 //Author: Mehdi Naderi Varandi
-//Student ID: 170725695
+
 
 public final class UndergraduateStudent extends TaughtStudent{
 	private final static TypeOfStudent TYPE=TypeOfStudent.UG;
