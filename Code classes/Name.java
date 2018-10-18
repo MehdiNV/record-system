@@ -9,7 +9,6 @@ package main;
 //One area however for future development is expanding this class to include other components such as middle names
 
 //Author: Mehdi Naderi Varandi
-//Student ID: 170725695
 
 public final class Name {
 	
