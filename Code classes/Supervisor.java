@@ -5,7 +5,7 @@ package main;
 //---> This class allows you to hold onto the names of the supervisor i.e. use it as an object
 
 //Author: Mehdi Naderi Varandi
-
+//Student ID: 170725695
 
 public class Supervisor {
 	//FIELDS-----------------------
