@@ -19,9 +19,8 @@ import java.util.Map;
 //	  ...same department at the university in the same year).
 
 //Author: Mehdi Naderi Varandi
-//Student ID: 170725695
 
-//Note for Markers: Please note that the SmartCard is one class altogether instead of separated into 2
+//Note for readers: Please note that the SmartCard is one class altogether instead of separated into 2
 //The reason I've done this is because demonstrators were ok with this, hence my decision to keep it as 1 class instead...
 //...of separating it into 2 separate classes
 
