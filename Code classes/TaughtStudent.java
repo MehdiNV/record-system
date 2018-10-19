@@ -9,7 +9,6 @@ import java.util.List;
 //This class carries out most of the functions that's already expected of the UG or PGT class
 
 //Author: Mehdi Naderi Varandi
-//Student ID: 170725695
 
 public abstract class TaughtStudent implements Student{
 	//FIELDS----------------------------------------------------------------
