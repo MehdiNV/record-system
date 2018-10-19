@@ -9,7 +9,6 @@ import main.Student;
 //Object Factory that generates a unique student ID
 
 //Author: Mehdi Naderi Varandi
-//Student ID: 170725695
 
 public final class StudentID {
 	private static final Map<Student,StudentID> studentID=new HashMap<Student,StudentID>();
