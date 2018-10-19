@@ -20,10 +20,6 @@ import java.util.Map;
 
 //Author: Mehdi Naderi Varandi
 
-//Note for readers: Please note that the SmartCard is one class altogether instead of separated into 2
-//The reason I've done this is because demonstrators were ok with this, hence my decision to keep it as 1 class instead...
-//...of separating it into 2 separate classes
-
 public final class SmartCards {
 	//private static final List<String> smartCards=new ArrayList<String>();
 	
