@@ -9,7 +9,6 @@ import java.util.Date;
 //... maybe add PhD students as well, since they would also be conducting research
 
 //Author: Mehdi Naderi Varandi
-//Student ID: 170725695
 
 public abstract class ResearchStudent implements Student{
 	//FIELDS----------------------------------------------------------------
