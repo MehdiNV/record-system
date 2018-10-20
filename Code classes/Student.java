@@ -3,8 +3,6 @@ package main;
 import java.util.Date;
 
 //Author: Mehdi Naderi Varandi
-//Student ID: 170725695
-
 
 //Interface for Students:
 //Assumptions made about students:
