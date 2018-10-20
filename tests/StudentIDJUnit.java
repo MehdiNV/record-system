@@ -19,7 +19,7 @@ public class StudentIDJUnit {
 		//This method test just tests that each student ID generated is unique
 		//As per the specification, each student should have a unique student ID assigned to them (and hence, no other student should have the same student ID)
 		
-		//Note to markers: I assumed that each studentID's prefix should be a random letter unlike smart card, because the specification did not mention if it had to...
+		//Note to readers: I assumed that each studentID's prefix should be a random letter unlike smart card, because the specification did not mention if it had to...
 		//...be an initial (hence, names such as james smith may have a0123 instead of j0123 as student ID).
 		
 		SystemManager system = new SystemManager();
