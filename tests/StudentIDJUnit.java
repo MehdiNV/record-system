@@ -12,6 +12,8 @@ import main.PGResearchStudent;
 import main.Student;
 import main.SystemManager;
 
+//Author: Mehdi Naderi Varandi
+
 public class StudentIDJUnit {
 
 	@Test
