@@ -22,7 +22,6 @@ import main.UndergraduateStudent;
 //...a method called isBadAge to check).
 
 //Author: Mehdi Naderi Varandi
-//Student ID: 170725695
 
 public class TaughtStudentJUnit {
 	
