@@ -14,7 +14,6 @@ import main.SystemManager;
 //...is to simply check that the class works
 
 //Author: Mehdi Naderi Varandi
-//Student ID: 170725695
 
 public class ModuleJUnit {
 
