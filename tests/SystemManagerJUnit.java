@@ -17,6 +17,7 @@ import main.UndergraduateStudent;
 //JUnit to test the SystemManager class - this is the class that performs the administrative functions described...
 //...in the specification such as registering students or getting the number of a specific type of students
 
+//Author: Mehdi Naderi Varandi
 
 public class SystemManagerJUnit {
 	
