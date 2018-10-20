@@ -13,6 +13,8 @@ import main.Student;
 import main.SystemManager;
 import main.UndergraduateStudent;
 
+//Author: Mehdi Naderi Varandi
+
 public class SmartcardsJUnit {
 
 	@Test
