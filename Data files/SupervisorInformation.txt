@@ -15,3 +15,4 @@ Bran Stark
 Petyr Baelish
 Oberyn Martell
 Jorah Mormont
+Samwell Tarly
