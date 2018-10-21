@@ -116,8 +116,6 @@ public final class StudentID {
 			}
 		}
 		
-		//StudentID newID= new StudentID(uniqueID);
-		
 		studentID.put(student, uniqueIDObject);
 		return (uniqueIDObject);
 	}
