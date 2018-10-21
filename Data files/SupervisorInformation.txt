@@ -12,3 +12,5 @@ Theon Greyjoy
 Stannis Baratheon
 Sansa Stark
 Brandon Stark
+Petyr Baelish
+Oberyn Martell
