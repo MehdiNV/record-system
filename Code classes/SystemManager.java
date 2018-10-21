@@ -155,7 +155,7 @@ public final class SystemManager {
 		//Method receives a student ID (i.e. as the identifier) as well as a new student which will replace the previous student object
 		//Hence, you'll now have a new student object that has changed data, but still is linked to the same studentID and smart Card
 		//The reasoning for not replacing smart card/Student ID is:
-		//	1) Specification does not allow you to issue more than 1 smart card
+		//	1) Specification/requirements does not allow you to issue more than 1 smart card
 		//	2) Even if say student record is changed, your physical smart card dosen't change unless you get a new one from Student services
 		
 		//Conditional statement that checks whether the StudentID that is passed in actually exists
