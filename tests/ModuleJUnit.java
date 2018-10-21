@@ -23,6 +23,7 @@ public class ModuleJUnit {
 		Module testModule=Module.getInstance("CSC1021, Programming I, 20");
 		
 		assertEquals("CSC1021",testModule.getModuleCode());
+		//Checks that the module code matches correctly
 	}
 
 	@Test
@@ -30,6 +31,7 @@ public class ModuleJUnit {
 		Module testModule=Module.getInstance("CSC1021, Programming I, 20");
 		
 		assertEquals("Programming I",testModule.getModuleName());
+		//Checks that the module name matches correctly
 	}
 	
 	@Test
