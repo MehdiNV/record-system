@@ -38,5 +38,7 @@ public class ModuleJUnit {
 	public void getModuleCreditsTest(){
 		Module testModule=Module.getInstance("CSC1021, Programming I, 20");
 		
-		assertEquals("20",testModule.getModuleCredits());	}
+		assertEquals("20",testModule.getModuleCredits());
+		//Checks that the module credits matches correctly
+	}
 }
