@@ -14,3 +14,4 @@ Sansa Stark
 Bran Stark
 Petyr Baelish
 Oberyn Martell
+Jorah Mormont
