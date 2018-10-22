@@ -16,3 +16,5 @@ Petyr Baelish
 Oberyn Martell
 Jorah Mormont
 Samwell Tarly
+Twyin Lannister
+Ramsay Bolton
