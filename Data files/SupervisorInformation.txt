@@ -19,3 +19,5 @@ Samwell Tarly
 Twyin Lannister
 Ramsay Bolton
 Catelyn Stark
+Ellaria Sand
+Viserys Tar
