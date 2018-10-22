@@ -21,3 +21,5 @@ Ramsay Bolton
 Catelyn Stark
 Ellaria Sand
 Viserys Tar
+Roose Bolton
+Jojen Reed
