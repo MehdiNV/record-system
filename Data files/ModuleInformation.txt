@@ -10,7 +10,7 @@ CSC2023, Algorithm Design and Analysis,	20
 CSC2024, Database Technology, 20
 CSC2025, Operating Systems, 20
 CSC2026, Computer Networks, 20
-CSC3121, 
+CSC3121, Distributed Systems, 20
 CSC3123, Web Technologies, 20
 CSC3223, Graphics for Games, 20
 CSC3323, Software Verification Technology, 20
