@@ -85,6 +85,7 @@ public class ResearchStudentJUnit {
 		SystemManager system=new SystemManager();
 		
 		Student indiana=new PGResearchStudent((new Name("Indiana","Jones")),"07/05/1994", system.addSupervisor("Jon Snow"));
+		//Creates new postgrad research student and sets their supervisor to be Jon Snow
 		
 		assertEquals(TypeOfStudent.PGR,indiana.getType());
 		//getType method in PGResearchStudent should return PGR
