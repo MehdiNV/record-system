@@ -10,6 +10,8 @@ CSC2023, Algorithm Design and Analysis,	20
 CSC2024, Database Technology, 20
 CSC2025, Operating Systems, 20
 CSC2026, Computer Networks, 20
+CSC3121, 
+CSC3123, Web Technologies, 20
 CSC3223, Graphics for Games, 20
 CSC3323, Software Verification Technology, 20
 CSC3424, Bioinformatics, 20
@@ -17,3 +19,4 @@ CSC3621, Cryptography, 20
 CSC3622, Reliability and Fault Tolerance, 20
 CSC3721, Introduction to Human-Computer Interaction, 20
 CSC3722, Advanced Interaction Design, 20
+CSC3723, Ubiquitous Computing, 20
