@@ -105,10 +105,11 @@ public class ResearchStudentJUnit {
 	}
 
 	public void getCheck() throws FileNotFoundException, IOException   {
-		SystemManager system=new SystemManager();
+		SystemManager system=new SystemManager(); //Creates new SystemManager object for testing
 		
 		Student jules=new PGResearchStudent((new Name("Jules","Winnfield")),"07/05/1983", system.addSupervisor("Jon Snow"));
-
+		//Creates a new postgrad research student and again sets their supervisor to Jon Snow
+		
 		assertEquals(1,((ResearchStudent) jules).getSupervisor());
 	}
 	
