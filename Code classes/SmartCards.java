@@ -102,7 +102,7 @@ public final class SmartCards {
 
 
 	public final static String getInitials(String firstName, String surname){ //Method that returns the initials of the student
-		//i.e. if the name was 'Neil Speirs' as shown in the specification, then the initials would be NS
+		//i.e. if the name was 'John Smith', then the initials would be JS
 		return String.valueOf(firstName.substring(0,1) + surname.substring(0,1));
 	}
 	
