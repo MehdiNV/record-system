@@ -173,7 +173,7 @@ public final class SmartCards {
 			return card;
 		}
 		
-		
+		//This point shouldn't be reached, but it's just included just in case
 		throw new IllegalArgumentException ("Something has gone wrong - this point should not be reached");
 	
 	}
