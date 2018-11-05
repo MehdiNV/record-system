@@ -35,3 +35,4 @@ Yara Greyjoy
 Grey Worm
 Olenna Tyrell
 Podrick Payne
+Robert Baratheon
