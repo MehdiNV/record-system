@@ -28,3 +28,4 @@ Barristan Selmy
 Margaery Tyrell
 High Sparrow
 Jaqen H'ghar
+Daario Naharis
