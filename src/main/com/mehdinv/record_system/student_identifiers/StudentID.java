@@ -6,6 +6,15 @@ import java.util.Random;
 
 import main.com.mehdinv.record_system.students.Student;
 
+/**
+ * What does this class do?
+ * Object Factory that generates a unique student ID
+ *
+ * @author Mehdi Naderi Varandi
+ *
+ **/
+
+
 //Object Factory that generates a unique student ID
 
 //Author: Mehdi Naderi Varandi
