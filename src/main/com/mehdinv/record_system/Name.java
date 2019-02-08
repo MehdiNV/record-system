@@ -1,15 +1,18 @@
 package main.com.mehdinv.record_system;
 
-//What does this class do? 
-//--> Used to create Name objects that can be associated with student objects
-//Each student will have one assigned to them, since all students should have a name
-
-//Assumptions made:
-//	1) I'm assuming that there is only a first name & surname - this class will solely focus on those two components
-//One area however for future development is expanding this class to include other components such as middle names
-
-//Author: Mehdi Naderi Varandi
-//Student ID: 170725695
+/**
+ * What does this class do?
+ * Used to create Name objects that can be associated with student objects
+ * Each student will have one assigned to them, since all students should have a name
+ *
+ * Assumptions made:
+ * 	1) I'm assuming that there is only a first name & surname - this class will solely focus on those two components
+ *
+ * Area for improvement:
+ * 	1) Expand the class to include other components such as middle names
+ *
+ * @author Mehdi Naderi Varandi
+ */
 
 public final class Name {
 	

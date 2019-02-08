@@ -1,11 +1,11 @@
 package main.com.mehdinv.record_system;
 
-//What does this class do?
-//
-//---> This class allows you to hold onto the names of the supervisor i.e. use it as an object
-
-//Author: Mehdi Naderi Varandi
-//Student ID: 170725695
+/**
+ * What does this class do?
+ * This class allows you to hold onto the names of the supervisor i.e. use it as an object
+ *
+ * @author Mehdi Naderi Varandi
+ */
 
 public class Supervisor {
 	//FIELDS-----------------------

@@ -16,20 +16,18 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-//What does this class do? 
-//
-//--> This class ensures that the university can use several administrative functions that were outlined in the specification, such as:
-//
-//	1) Register a new student: registerStudent allows you to register a new student and create a new student ID & smart card for them
-//	2) Get the number of students in UG, PGT or PGR: noOfStudents gets the size of the HashMaps which are incremented when a new student is added...
-//	... allowing you to see how many students are registered as UG/PGT/PGR
-//	3) Remove a student: terminateStudent removes a student completely from the university i.e. in the case that they left the course
-//	4) Amend data: amendStudentData allows you to change data about a student - in this case, the method recreates the object with the new information...
-//	...and amends the appropriate data structures to contain the new object (the student will still retain their student ID (i.e. why change it due to small change)
-
-//	Author: Mehdi Naderi Varandi
-//	Student ID: 170725695
-
+/**
+ * What does this class do?
+ * This class ensures that the university can use several administrative functions that were outlined in the specification, such as:
+ * 	1) Register a new student: registerStudent allows you to register a new student and create a new student ID & smart card for them
+ *	2) Get the number of students in UG, PGT or PGR: noOfStudents gets the size of the HashMaps which are incremented when a new student is added...
+ *	... allowing you to see how many students are registered as UG/PGT/PGR
+ *	3) Remove a student: terminateStudent removes a student completely from the university i.e. in the case that they left the course
+ *	4) Amend data: amendStudentData allows you to change data about a student - in this case, the method recreates the object with the new information...
+ *	...and amends the appropriate data structures to contain the new object (the student will still retain their student ID (i.e. why change it due to small change)
+ *
+ * @author Mehdi Naderi Varandi
+ */
 
 public final class SystemManager {
 	
