@@ -1,13 +1,17 @@
 package main.com.mehdinv.record_system.students;
 
-//Implementation/subclass of abstract class TaughtStudent - stores the constructor (which calls the super constructor)...
-//...and a method that returns the type of student
-
-//Author: Mehdi Naderi Varandi
-//Student ID: 170725695
-
 import main.com.mehdinv.record_system.Name;
 import main.com.mehdinv.record_system.student_identifiers.TypeOfStudent;
+
+/**
+ * What does this class do?
+ * Implementation/subclass of abstract class TaughtStudent - stores the constructor (which calls the super constructor)...
+ * ...and a method that returns the type of student
+ *
+ * @author Mehdi Naderi Varandi
+ *
+ **/
+
 
 public final class PGTaughtStudent extends TaughtStudent{
 	private final static TypeOfStudent TYPE=TypeOfStudent.PGT;

@@ -7,17 +7,20 @@ import main.com.mehdinv.record_system.student_identifiers.TypeOfStudent;
 
 import java.util.Date;
 
-//Author: Mehdi Naderi Varandi
-//Student ID: 170725695
-
-
-//Interface for Students:
-//Assumptions made about students:
-//1) Each student has a name - specifically first name & and a surname
-//2) All students are going to Newcastle University / same University
-//3) Each student has a DOB
-//4) Each student will be taking various modules (except Post-graduate researchers)
-//5) The MAXIMUM age of the student will be 105 years old - this is 24 years older than life expectancy, + from my research, the oldest student seemed to have been 102
+/**
+ * What does this interface do?
+ * Acts as an interface for Students
+ *
+ * Assumptions made about students:
+ *  1) Each student has a name - specifically first name & and a surname
+ *  2) All students are going to Newcastle University / same University
+ *  3) Each student has a DOB
+ *  4) Each student will be taking various modules (except Post-graduate researchers)
+ *  5) The MAXIMUM age of the student will be 105 years old - this is 24 years older than life expectancy, + from my research, the oldest student seemed to have been 102
+ *
+ * @author Mehdi Naderi Varandi
+ *
+ **/
 
 public interface Student {
 	

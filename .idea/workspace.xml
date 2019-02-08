@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4b94aa3-2d25-4b0c-b5db-ac02eb4a57bd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/com/mehdinv/record_system/student_identifiers/SmartCards.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/mehdinv/record_system/student_identifiers/SmartCards.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com/mehdinv/record_system/student_identifiers/StudentID.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/mehdinv/record_system/student_identifiers/StudentID.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/com/mehdinv/record_system/student_identifiers/TypeOfStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/mehdinv/record_system/student_identifiers/TypeOfStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/mehdinv/record_system/students/PGResearchStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/mehdinv/record_system/students/PGResearchStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/mehdinv/record_system/students/PGTaughtStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/mehdinv/record_system/students/PGTaughtStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/mehdinv/record_system/students/ResearchStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/mehdinv/record_system/students/ResearchStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/com/mehdinv/record_system/students/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/mehdinv/record_system/students/Student.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,25 +54,25 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="18" />
+          <entry key="java" value="19" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="18" />
+          <entry key="JAVA" value="19" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="862" />
+          <entry key="java" value="1217" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="862" />
+          <entry key="JAVA" value="1217" />
         </counts>
       </usages-collector>
     </session>
@@ -90,9 +91,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/com/mehdinv/record_system/students/PGResearchStudent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="96">
+              <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="e#920#921#0" expanded="true" />
                 <element signature="e#972#973#0" expanded="true" />
               </folding>
@@ -129,6 +131,15 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/com/mehdinv/record_system/students/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/com/mehdinv/record_system/student_identifiers/StudentID.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -149,22 +160,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/com/mehdinv/record_system/students/PGTaughtStudent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+            <state relative-caret-position="16">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#741#742#0" expanded="true" />
-                <element signature="e#759#760#0" expanded="true" />
+                <element signature="e#746#747#0" expanded="true" />
+                <element signature="e#764#765#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/com/mehdinv/record_system/student_identifiers/TypeOfStudent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            <state relative-caret-position="64">
+              <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -172,27 +183,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/com/mehdinv/record_system/students/ResearchStudent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/com/mehdinv/record_system/SystemManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="26" column="36" lean-forward="true" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
-              <folding>
-                <element signature="e#1842#1850#0" expanded="true" />
-                <element signature="e#1982#1994#0" expanded="true" />
-                <element signature="e#2297#2316#0" expanded="true" />
-                <element signature="e#2488#2508#0" expanded="true" />
-                <element signature="e#2490#2509#0" expanded="true" />
-                <element signature="e#2675#2695#0" expanded="true" />
-                <element signature="e#2839#2858#0" expanded="true" />
-                <element signature="e#3026#3046#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="190">
+              <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -257,6 +249,10 @@
         <option value="$PROJECT_DIR$/src/main/com/mehdinv/record_system/student_identifiers/SmartCards.java" />
         <option value="$PROJECT_DIR$/src/main/com/mehdinv/record_system/student_identifiers/StudentID.java" />
         <option value="$PROJECT_DIR$/src/main/com/mehdinv/record_system/student_identifiers/TypeOfStudent.java" />
+        <option value="$PROJECT_DIR$/src/main/com/mehdinv/record_system/students/PGResearchStudent.java" />
+        <option value="$PROJECT_DIR$/src/main/com/mehdinv/record_system/students/PGTaughtStudent.java" />
+        <option value="$PROJECT_DIR$/src/main/com/mehdinv/record_system/students/ResearchStudent.java" />
+        <option value="$PROJECT_DIR$/src/main/com/mehdinv/record_system/students/Student.java" />
       </list>
     </option>
   </component>
@@ -484,7 +480,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2927000" />
+    <option name="totallyTimeSpent" value="3210000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -562,13 +558,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/mehdinv/record_system/students/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/com/mehdinv/record_system/students/TaughtStudent.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
@@ -593,41 +582,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/mehdinv/record_system/students/ResearchStudent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/mehdinv/record_system/students/PGResearchStudent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#920#921#0" expanded="true" />
-            <element signature="e#972#973#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/resources/ModuleInformation.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/resources/SupervisorInformation.txt">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/mehdinv/record_system/students/PGTaughtStudent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#741#742#0" expanded="true" />
-            <element signature="e#759#760#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/com/mehdinv/record_system/SystemManager.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -727,8 +686,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/com/mehdinv/record_system/student_identifiers/TypeOfStudent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        <state relative-caret-position="64">
+          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/mehdinv/record_system/students/PGResearchStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#920#921#0" expanded="true" />
+            <element signature="e#972#973#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/mehdinv/record_system/students/PGTaughtStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#746#747#0" expanded="true" />
+            <element signature="e#764#765#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/mehdinv/record_system/students/ResearchStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/mehdinv/record_system/students/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
         </state>
       </provider>
     </entry>

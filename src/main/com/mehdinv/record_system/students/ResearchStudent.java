@@ -9,6 +9,18 @@ import main.com.mehdinv.record_system.student_identifiers.TypeOfStudent;
 import java.util.Calendar;
 import java.util.Date;
 
+/**
+ * What does this class do?
+ * Abstract students solely for those who are conducting research at the university
+ * This includes PGR students but excludes UG & PGT - the reason I've set up the inheritance hierarchy...
+ * ...like this is to also ensure that future programmers can easily modify it for other PG students i.e. ...
+ * ... maybe add PhD students as well, since they would also be conducting research
+ *
+ * @author Mehdi Naderi Varandi
+ *
+ **/
+
+
 //Abstract students solely for those who are conducting research at the university
 //This includes PGR students but excludes UG & PGT - the reason I've set up the inheritance hierarchy...
 //...like this is to also ensure that future programmers can easily modify it for other PG students i.e. ...
