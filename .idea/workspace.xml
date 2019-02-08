@@ -2,32 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4b94aa3-2d25-4b0c-b5db-ac02eb4a57bd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/record-system.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code classes/main/Module.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code classes/main/Name.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code classes/main/PGResearchStudent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code classes/main/PGTaughtStudent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code classes/main/ResearchStudent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code classes/main/SmartCards.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code classes/main/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code classes/main/StudentID.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code classes/main/Supervisor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code classes/main/SystemManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code classes/main/TaughtStudent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code classes/main/TypeOfStudent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code classes/main/UndergraduateStudent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data files/ModuleInformation.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data files/SupervisorInformation.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/tests/ModuleJUnit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/tests/ResearchStudentJUnit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/tests/SmartcardsJUnit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/tests/StudentIDJUnit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/tests/SystemManagerJUnit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/tests/TaughtStudentJUnit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/Module.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/Name.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/PGResearchStudent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/PGTaughtStudent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/ResearchStudent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/SmartCards.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/StudentID.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/Supervisor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/SystemManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/TaughtStudent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/TypeOfStudent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/UndergraduateStudent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/tests/ModuleJUnit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/tests/ResearchStudentJUnit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/tests/SmartcardsJUnit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/tests/StudentIDJUnit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/tests/SystemManagerJUnit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/tests/TaughtStudentJUnit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ModuleInformation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/ModuleInformation.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SupervisorInformation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/SupervisorInformation.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Module.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/mehdinv/record_system/Module.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Name.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/mehdinv/record_system/Name.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/PGResearchStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/mehdinv/record_system/students/PGResearchStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/PGTaughtStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/mehdinv/record_system/students/PGTaughtStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ResearchStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/mehdinv/record_system/students/ResearchStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/SmartCards.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/mehdinv/record_system/student_identifiers/SmartCards.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/mehdinv/record_system/students/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/StudentID.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/mehdinv/record_system/student_identifiers/StudentID.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Supervisor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/mehdinv/record_system/Supervisor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/SystemManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/mehdinv/record_system/SystemManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/TaughtStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/mehdinv/record_system/students/TaughtStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/TypeOfStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/mehdinv/record_system/student_identifiers/TypeOfStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/UndergraduateStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/mehdinv/record_system/students/UndergraduateStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/ModuleJUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/mehdinv/record_system/test/ModuleJUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/ResearchStudentJUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/mehdinv/record_system/test/ResearchStudentJUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/SmartcardsJUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/mehdinv/record_system/test/SmartcardsJUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/StudentIDJUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/mehdinv/record_system/test/StudentIDJUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/SystemManagerJUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/mehdinv/record_system/test/SystemManagerJUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/TaughtStudentJUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/mehdinv/record_system/test/TaughtStudentJUnit.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,51 +91,55 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="2" />
+          <entry key="java" value="15" />
+          <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="2" />
+          <entry key="JAVA" value="15" />
+          <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="342" />
+          <entry key="java" value="389" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="342" />
+          <entry key="JAVA" value="389" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/Module.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/com/mehdinv/record_system/Module.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-              <folding>
-                <element signature="e#1787#1788#0" expanded="true" />
-                <element signature="e#1846#1847#0" expanded="true" />
-                <element signature="e#1886#1887#0" expanded="true" />
-                <element signature="e#1951#1952#0" expanded="true" />
-                <element signature="e#1994#1995#0" expanded="true" />
-                <element signature="e#2054#2055#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="80">
+              <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tests/SystemManagerJUnit.java">
+        <entry file="file://$PROJECT_DIR$/src/resources/ModuleInformation.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/resources/SupervisorInformation.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/com/mehdinv/record_system/students/PGResearchStudent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="752">
-              <caret line="59" selection-start-line="59" selection-end-line="59" />
+            <state relative-caret-position="192">
+              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -129,51 +148,55 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tests/TaughtStudentJUnit.java">
+        <entry file="file://$PROJECT_DIR$/src/main/com/mehdinv/record_system/student_identifiers/StudentID.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="35" column="87" selection-start-line="35" selection-start-column="87" selection-end-line="35" selection-end-column="87" />
+            <state relative-caret-position="144">
+              <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/record-system.iml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/PGResearchStudent.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tests/ModuleJUnit.java">
+        <entry file="file://$PROJECT_DIR$/src/main/com/mehdinv/record_system/student_identifiers/SmartCards.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="197">
-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+              <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tests/ResearchStudentJUnit.java">
+        <entry file="file://$PROJECT_DIR$/src/main/com/mehdinv/record_system/student_identifiers/TypeOfStudent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="64" column="23" selection-start-line="64" selection-start-column="23" selection-end-line="64" selection-end-column="23" />
+            <state relative-caret-position="128">
+              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/com/mehdinv/record_system/SystemManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="61" column="4" lean-forward="true" selection-start-line="61" selection-start-column="4" selection-end-line="61" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/com/mehdinv/record_system/Supervisor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/com/mehdinv/record_system/Name.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -197,6 +220,9 @@
         <option value="$PROJECT_DIR$/src/tests/ResearchStudentJUnit.java" />
         <option value="$PROJECT_DIR$/src/tests/TaughtStudentJUnit.java" />
         <option value="$PROJECT_DIR$/src/main/Module.java" />
+        <option value="$PROJECT_DIR$/src/main/ResearchStudent.java" />
+        <option value="$PROJECT_DIR$/src/main/com/mehdinv/record_system/student_identifiers/TypeOfStudent.java" />
+        <option value="$PROJECT_DIR$/src/main/com/mehdinv/record_system/SystemManager.java" />
       </list>
     </option>
   </component>
@@ -235,13 +261,13 @@
               <item name="record-system" type="b2602c69:ProjectViewProjectNode" />
               <item name="record-system" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="record_system" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="record-system" type="b2602c69:ProjectViewProjectNode" />
               <item name="record-system" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -255,10 +281,15 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549642373402" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549644218838" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mehdi\Google Drive\Personal life\Programming Workspace\IntelliJ applications\record-system\src\main\com\mehdinv\record_system\resources" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -272,17 +303,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SmartcardsJUnit">
+  <component name="RunManager" selected="JUnit.StudentIDJUnit">
     <configuration name="ModuleJUnit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="record-system" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.*" />
+          <option name="PATTERN" value="main.com.mehdinv.record_system.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.ModuleJUnit" />
+      <option name="PACKAGE_NAME" value="main.com.mehdinv.record_system.test" />
+      <option name="MAIN_CLASS_NAME" value="main.com.mehdinv.record_system.test.ModuleJUnit" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -291,12 +322,26 @@
       <module name="record-system" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.*" />
+          <option name="PATTERN" value="main.com.mehdinv.record_system.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.SmartcardsJUnit" />
+      <option name="PACKAGE_NAME" value="main.com.mehdinv.record_system.test" />
+      <option name="MAIN_CLASS_NAME" value="main.com.mehdinv.record_system.test.SmartcardsJUnit" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentIDJUnit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="record-system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.com.mehdinv.record_system.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.com.mehdinv.record_system.test" />
+      <option name="MAIN_CLASS_NAME" value="main.com.mehdinv.record_system.test.StudentIDJUnit" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -305,39 +350,25 @@
       <module name="record-system" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.*" />
+          <option name="PATTERN" value="main.com.mehdinv.record_system.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.SystemManagerJUnit" />
+      <option name="PACKAGE_NAME" value="main.com.mehdinv.record_system.test" />
+      <option name="MAIN_CLASS_NAME" value="main.com.mehdinv.record_system.test.SystemManagerJUnit" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaughtStudentJUnit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="main.com.mehdinv.record_system.test in record-system" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="record-system" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.*" />
+          <option name="PATTERN" value="main.com.mehdinv.record_system.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.TaughtStudentJUnit" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="tests in Programming II Project Coursework - Mehdi Naderi Varandi" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="record-system" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests" />
+      <option name="PACKAGE_NAME" value="main.com.mehdinv.record_system.test" />
       <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -391,19 +422,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.tests in Programming II Project Coursework - Mehdi Naderi Varandi" />
+      <item itemvalue="JUnit.main.com.mehdinv.record_system.test in record-system" />
       <item itemvalue="JUnit.SystemManagerJUnit" />
-      <item itemvalue="JUnit.TaughtStudentJUnit" />
       <item itemvalue="JUnit.ModuleJUnit" />
       <item itemvalue="JUnit.SmartcardsJUnit" />
+      <item itemvalue="JUnit.StudentIDJUnit" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SmartcardsJUnit" />
-        <item itemvalue="JUnit.ModuleJUnit" />
-        <item itemvalue="JUnit.TaughtStudentJUnit" />
+        <item itemvalue="JUnit.StudentIDJUnit" />
         <item itemvalue="JUnit.SystemManagerJUnit" />
-        <item itemvalue="JUnit.tests in Programming II Project Coursework - Mehdi Naderi Varandi" />
+        <item itemvalue="JUnit.ModuleJUnit" />
+        <item itemvalue="JUnit.main.com.mehdinv.record_system.test in record-system" />
+        <item itemvalue="JUnit.SmartcardsJUnit" />
       </list>
     </recent_temporary>
   </component>
@@ -418,7 +449,7 @@
       <option name="presentableId" value="Default" />
       <updated>1549641429140</updated>
       <workItem from="1549641432018" duration="294000" />
-      <workItem from="1549641994806" duration="377000" />
+      <workItem from="1549641994806" duration="2161000" />
     </task>
     <servers />
   </component>
@@ -447,15 +478,18 @@
     <history-entry file="SmartcardsJUnit - 2019.02.08 at 16h 08m 08s.xml">
       <configuration name="SmartcardsJUnit" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="main_com_mehdinv_record_system_test_in_record-system - 2019.02.08 at 16h 42m 08s.xml">
+      <configuration name="main.com.mehdinv.record_system.test in record-system" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="671000" />
+    <option name="totallyTimeSpent" value="2455000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -464,8 +498,8 @@
       <window_info id="Learn" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -493,7 +527,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/tests/SystemManagerJUnit.java">
+    <entry file="file://$PROJECT_DIR$/src/main/com/mehdinv/record_system/test/SystemManagerJUnit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="752">
           <caret line="59" selection-start-line="59" selection-end-line="59" />
@@ -503,56 +537,127 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tests/TaughtStudentJUnit.java">
+    <entry file="file://$PROJECT_DIR$/src/main/com/mehdinv/record_system/test/TaughtStudentJUnit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
-          <caret line="35" column="87" selection-start-line="35" selection-start-column="87" selection-end-line="35" selection-end-column="87" />
+          <caret line="34" column="87" selection-start-line="34" selection-start-column="87" selection-end-line="34" selection-end-column="87" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tests/ResearchStudentJUnit.java">
+    <entry file="file://$PROJECT_DIR$/src/main/com/mehdinv/record_system/test/ResearchStudentJUnit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="816">
-          <caret line="64" column="23" selection-start-line="64" selection-start-column="23" selection-end-line="64" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <caret line="63" column="23" selection-start-line="63" selection-start-column="23" selection-end-line="63" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/record-system.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/PGResearchStudent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tests/ModuleJUnit.java">
+    <entry file="file://$PROJECT_DIR$/src/main/com/mehdinv/record_system/test/ModuleJUnit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
           <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Module.java">
+    <entry file="file://$PROJECT_DIR$/src/main/com/mehdinv/record_system/students/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/mehdinv/record_system/students/TaughtStudent.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
-          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/mehdinv/record_system/students/UndergraduateStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/mehdinv/record_system/students/ResearchStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/mehdinv/record_system/students/PGTaughtStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/mehdinv/record_system/students/PGResearchStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
           <folding>
-            <element signature="e#1787#1788#0" expanded="true" />
-            <element signature="e#1846#1847#0" expanded="true" />
-            <element signature="e#1886#1887#0" expanded="true" />
-            <element signature="e#1951#1952#0" expanded="true" />
-            <element signature="e#1994#1995#0" expanded="true" />
-            <element signature="e#2054#2055#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/mehdinv/record_system/student_identifiers/StudentID.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/mehdinv/record_system/student_identifiers/SmartCards.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/mehdinv/record_system/student_identifiers/TypeOfStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/mehdinv/record_system/Supervisor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/mehdinv/record_system/Name.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/mehdinv/record_system/Module.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/ModuleInformation.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/SupervisorInformation.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/mehdinv/record_system/SystemManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="61" column="4" lean-forward="true" selection-start-line="61" selection-start-column="4" selection-end-line="61" selection-end-column="4" />
         </state>
       </provider>
     </entry>

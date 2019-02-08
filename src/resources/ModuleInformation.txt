@@ -1,0 +1,12 @@
+CSC1021, Programming I, 20
+CSC1022, Programming II, 20
+CSC1023, The Software Engineering Professional,	20
+CSC1024, Computer Architecture,	20
+CSC1025, Mathematics for Computer Science, 20
+CSC1026, Website Design and Construction, 20
+CSC2021, Software Engineering, 20
+CSC2022, Software Engineering Team Project, 20
+CSC2023, Algorithm Design and Analysis,	20
+CSC2024, Database Technology, 20
+CSC2025, Operating Systems, 20
+CSC2026, Computer Networks, 20
