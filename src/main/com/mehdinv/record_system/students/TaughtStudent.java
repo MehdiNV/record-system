@@ -11,6 +11,16 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.List;
 
+/**
+ * What does this class do?
+ * Abstract class that implements the Student interface
+ * This class carries out most of the functions that's already expected of the UG or PGT class
+ *
+ * @author Mehdi Naderi Varandi
+ *
+ **/
+
+
 //Abstract class that implements the Student interface
 // This class carries out most of the functions that's already expected of the UG or PGT class
 

@@ -24,12 +24,12 @@ import java.util.Date;
 
 public interface Student {
 	
-	Boolean isBadAge(int minimumAge); //Every student has a age criteria
-	//UG have to be at least 17 whereas PG have to be at least 20
-	//This method can return whether or not the student/person meets those requirements
-	//Furthermore, the idea is that it can also throw an exception/return false....
-	//if person has an abnormally high age - for this project, I will assume that each person is at least...
-	//below 105 years old (Apparently, the most oldest student has been 102, hence I'm setting it at 105 just to be safe).
+	Boolean isBadAge(int minimumAge); /** Every student has a age criteria
+	    UG have to be at least 17 whereas PG have to be at least 20
+	    This method can return whether or not the student/person meets those requirements
+	    Furthermore, the idea is that it can also throw an exception/return false....
+	    if person has an abnormally high age - for this project, I will assume that each person is at least...
+	    below 105 years old (Apparently, the most oldest student has been 102, hence I'm setting it at 105 just to be safe). **/
 	
 	Name getName(); //Every student has a name, and hence they should have a get method for it
 	//Each student shares characteristics such as birthdays, student ID, a name, and a type (i.e. UG/PG)...

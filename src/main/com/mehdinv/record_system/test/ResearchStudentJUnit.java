@@ -14,13 +14,15 @@ import main.com.mehdinv.record_system.SystemManager;
 import main.com.mehdinv.record_system.student_identifiers.TypeOfStudent;
 import main.com.mehdinv.record_system.students.PGResearchStudent;
 
-//JUnit that tests both the Abstract class (Research student) as well as by extension, its implementations (PGR implementations)
-//Specifically, we check that the functionality of the class and its subclasses are performing as expected, such as by checking...
-//...its methods i.e. testing whether the program can filter out invalid inputs/ages via its constructor (note that the constructor actually calls...
-//...a method called isBadAge to check).
-
-//Author: Mehdi Naderi Varandi
-//Student ID: 170725695
+/**
+ * JUnit that tests both the Abstract class (Research student) as well as by extension, its implementations (PGR implementations)
+ * Specifically, we check that the functionality of the class and its subclasses are performing as expected, such as by checking...
+ * ...its methods i.e. testing whether the program can filter out invalid inputs/ages via its constructor (note that the constructor actually calls...
+ * ...a method called isBadAge to check).
+ *
+ * @author Mehdi Naderi Varandi
+ *
+ **/
 
 public class ResearchStudentJUnit {
 

@@ -14,8 +14,13 @@ import main.com.mehdinv.record_system.SystemManager;
 import main.com.mehdinv.record_system.student_identifiers.TypeOfStudent;
 import main.com.mehdinv.record_system.students.UndergraduateStudent;
 
-//JUnit to main.com.mehdinv.record_system.test the SystemManager class - this is the class that performs the administrative functions described...
-//...in the specification such as registering students or getting the number of a specific type of students
+/**
+ * JUnit to main.com.mehdinv.record_system.test the SystemManager class - this is the class that performs the administrative functions described...
+ * ...in the specification such as registering students or getting the number of a specific type of students
+ *
+ * @author Mehdi Naderi Varandi
+ *
+ **/
 
 
 public class SystemManagerJUnit {
