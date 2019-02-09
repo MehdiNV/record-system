@@ -14,13 +14,15 @@ import java.util.Map;
  *
  * Smart cards are generated via:
  * 1) First component: The initials of the student is used to make the first part of the card...
- * ...for example, if our user were to be Neil Speirs, then the output would be NS as the initials
+ * ...for example, if our user were to be John Smith, then the output would be JS as the initials
  * 2) Second component: The milliseconds since January 1st, 1970 (using Date class) are held in a variable...
  * ... then calendar class is used to convert the value held in the variable into the current year (i.e. currently 2019)
  * 3) Third component: Serial number is assumed to be sequential (i.e. increases continuously from 1 to 100)...
  * ...this is used to ensure that each smart card is unique in case there are multiple students with the same initials entering in the same year...
  * ...however, I'm assuming that the max this can be is 100 students (i.e. non-existent chance that 100 students with the same initials, enter the...
  * ...same department at the university in the same year).
+ *
+ * Requirements to note: Deprecated class is required for usage as part of coursework specification. Normally though, deprecated classes should not be used
  *
  * @author Mehdi Naderi Varandi
  *

@@ -1,9 +1,6 @@
 package main.com.mehdinv.record_system;
 
 /**
- * Author: Mehdi Naderi Varandi
- * Purpose of Project: University coursework
- *
  * What does this class do?
  * This class creates module objects that can be associated with student objects
  *
@@ -11,10 +8,14 @@ package main.com.mehdinv.record_system;
  *
  * Assumptions:
  * 	1) All modules used from the associated text files are unique
+ *
+ *
+ * 	@author Mehdi Naderi Varandi
 **/
 
 
 public final class Module {
+
 	//FIELDS--------------------------------------------------------
 	private final String moduleCode; //String holding mode code
 	private final String moduleName; //String holding module name
